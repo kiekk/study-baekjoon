@@ -1,3 +1,5 @@
+package 일차원배열;
+
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/1546

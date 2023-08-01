@@ -1,3 +1,5 @@
+package 투포인터;
+
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/2018

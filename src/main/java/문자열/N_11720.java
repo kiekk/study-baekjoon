@@ -1,3 +1,5 @@
+package 문자열;
+
 import java.util.Scanner;
 
 // https://www.acmicpc.net/source/64314832
